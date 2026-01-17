@@ -28,5 +28,19 @@ git push
 git pull
 ```
 
+## Funcionalidad: Perfil de Usuario
+
+### Descripción
+Módulo de gestión de perfiles de usuario implementado.
+
+### Características
+- Visualización de datos personales
+- Edición de información
+- Cambio de foto de perfil
+- Configuración de privacidad
+
+### Estado
+✅ Implementado en rama feature/perfil-tunombre
+
 ## Autor
 Nicolás Alexander Álvarez Arce
